@@ -10,7 +10,10 @@
       "flex-layout.row#shelf",
       "info-card#home",
       "rich-text#question",
+      "contactUs",
       "rich-text#link",
+      "contact",
+      "contactService",
       "newsletter"
     ]
   },
